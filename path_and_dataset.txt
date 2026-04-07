@@ -1,0 +1,5 @@
+path：vit_multi_task_model.pth
+: https://pan.baidu.com/s/16uP4w81nNMP22fZogjCuRQ 
+password: d4qq 
+
+dataset: coming soon
